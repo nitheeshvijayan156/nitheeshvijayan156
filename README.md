@@ -21,5 +21,4 @@ My core focus is developing intelligent systems that improve automation, efficie
 📬 Reach me at: [nitheesh.vijayan156@gmail.com](mailto:nitheesh.vijayan156@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/nitheesh-vijayan-4787291a2) | [GitHub](https://github.com/nitheeshvijayan156)
 
-## 🧠 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitheeshvijayan156&layout=compact&theme=tokyonight)
+
