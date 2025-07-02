@@ -19,6 +19,6 @@ My core focus is developing intelligent systems that improve automation, efficie
 - Document AI and Applied NLP projects
 
 📬 Reach me at: [nitheesh.vijayan156@gmail.com](mailto:nitheesh.vijayan156@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/nitheesh-vijayan-4787291a2) | [GitHub](https://github.com/nitheeshvijayan156)
+🔗 [LinkedIn](https://www.linkedin.com/in/nitheesh-vijayan-4787291a2) | [GitHub](https://github.com/nitheeshvijayan156) | [Portfolio]([https://github.com/nitheeshvijayan156](https://nitheeshvijayan156.github.io/portfolio/))
 
 
